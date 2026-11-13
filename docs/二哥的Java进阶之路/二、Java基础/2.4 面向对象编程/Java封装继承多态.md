@@ -15,7 +15,7 @@ head:
 
 在谈 Java 面向对象的时候，不得不提到面向对象的三大特征：[封装](https://javabetter.cn/oo/encapsulation.html)、[继承](https://javabetter.cn/oo/extends-bigsai.html)、[多态](https://javabetter.cn/oo/polymorphism.html)。三大特征紧密联系而又有区别，合理使用继承能大大减少重复代码，**提高代码复用性。**
 
-### 1）封装
+### 1）封装 (Encapsulation)
 
 “三妹，准备好了没，我们来讲 Java 封装，算是 Java 的三大特征之一，理清楚了，对以后的编程有较大的帮助。”我对三妹说。
 
