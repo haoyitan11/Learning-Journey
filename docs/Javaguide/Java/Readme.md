@@ -90,7 +90,7 @@ head:
 
 ## 高频问题
 
-- Java 为什么是值传递？对象引用作为参数传递时到底发生了什么
+- Java 为什么是值传递？对象引用作为参数传递时到底发生了什么?
 - `String`、`StringBuilder`、`StringBuffer` 有什么区别？
 - `equals()` 和 `hashCode()` 有什么关系？
 - `ArrayList` 和 `LinkedList` 如何选择？`HashMap` 为什么线程不安全？
